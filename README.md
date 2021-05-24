@@ -2,7 +2,7 @@
 Application mobile en swift à partir de l'api de l'intra de l'ETNA
 
 
-Réalisation de l'application mobile Intra à partir des APIs complexes de l'ETNA. L'objectif étant d'adapter un ou plusieurs outils de l'intra. Ici, nous avons selectionné les outils principaux de notre intra (ceux dont nous en avons le plus d'utilité) afin de les adapter en version mobile.
+Réalisation de l'application mobile Intra à partir des APIs complexes de l'ETNA. L'objectif étant d'adapter un ou plusieurs outils de l'intra. Ici, nous avons selectionné les outils principaux de notre intra (ceux dont nous en avons le plus d'utilité) afin de les adapter en version mobile. Il s'agit ici d'une version en cours d'amélioration hors cours (formatage de l'affichage, amélioration du visuel, concordance des couleurs) 
 
 |        Page de démarage            |              Authentification à notre compte avec cookie              |
 |:------------------------------------:|:------------------------------------:|
